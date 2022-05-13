@@ -233,10 +233,10 @@ export default {
     name: 'FormularioComponent',
     data: () => ({
         form: {
-            nome: 'Joao',
-            email: 'j@teste.com',
-            senha: '1234',
-            idade: 33
+            nome: '',
+            email: '',
+            senha: '',
+            idade: ''
         }
     })
 }
